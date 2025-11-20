@@ -21,10 +21,10 @@ export function Contact() {
             {t('contact.description')}
           </p>
         </div>
-        <div className="mt-16 grid grid-cols-1 gap-12 md:grid-cols-2">
+        <div className="mt-16 grid grid-cols-1 gap-12 lg:grid-cols-2 lg:gap-16 items-start">
           <div className="space-y-8">
             <div className="flex items-start gap-4">
-              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10">
+              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10 flex-shrink-0">
                 <Mail className="h-6 w-6 text-primary" />
               </div>
               <div>
@@ -33,7 +33,7 @@ export function Contact() {
               </div>
             </div>
             <div className="flex items-start gap-4">
-              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10">
+              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10 flex-shrink-0">
                 <Phone className="h-6 w-6 text-primary" />
               </div>
               <div>
