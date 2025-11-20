@@ -7,22 +7,52 @@
       "imageHint": "happy senior family"
     },
     {
-      "id": "screenshot-dashboard",
-      "description": "App dashboard view showing resident monitoring stats.",
-      "imageUrl": "https://images.unsplash.com/photo-1759489239510-d0401888d9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzYzNjQ1MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "app dashboard"
+      "id": "screenshot-1",
+      "description": "App screenshot 1",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105680915365961/image.png?ex=692095c0&is=691f4440&hm=c7a5428f68099575596bc3f1de9242a7c7797d8e7a08f9ffc06ac6acc1ed2265&=&format=webp&quality=lossless&width=432&height=936",
+      "imageHint": "app screenshot"
     },
     {
-      "id": "screenshot-chat",
-      "description": "App's real-time messaging interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1633354931133-27ac1ee5d853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBjaGF0fGVufDB8fHx8MTc2MzY1NDYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "app chat"
+      "id": "screenshot-2",
+      "description": "App screenshot 2",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105652683636879/image.png?ex=692095ba&is=691f443a&hm=45ae103886823eb178e2617ae759f4a280d6598aaf6ded1e713e630c292954b9&=&format=webp&quality=lossless&width=431&height=935",
+      "imageHint": "app screenshot"
     },
     {
-      "id": "screenshot-calendar",
-      "description": "App's appointment scheduling calendar view.",
-      "imageUrl": "https://images.unsplash.com/photo-1762769180401-083b8725434b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcHAlMjBjYWxlbmRhcnxlbnwwfHx8fDE3NjM2NTQ2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "app calendar"
+      "id": "screenshot-3",
+      "description": "App screenshot 3",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105618713968732/image.png?ex=692095b1&is=691f4431&hm=b0448bfffaf34bf610ed0dbf74b6c161b6f406fa068c92d28023bfcef679a7de&=&format=webp&quality=lossless&width=432&height=936",
+      "imageHint": "app screenshot"
+    },
+    {
+      "id": "screenshot-4",
+      "description": "App screenshot 4",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105596643414208/image.png?ex=692095ac&is=691f442c&hm=09cfaea6df5cb775a7ec00d5959b4bb77050d5bd050b2c9e90676b4560a82712&=&format=webp&quality=lossless&width=432&height=936",
+      "imageHint": "app screenshot"
+    },
+    {
+      "id": "screenshot-5",
+      "description": "App screenshot 5",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105564418572351/image.png?ex=692095a5&is=691f4425&hm=c31e49576018ca42282eaf3a6d67dac53e76e9d5eaf9452c83f51f863aac1f36&=&format=webp&quality=lossless&width=432&height=936",
+      "imageHint": "app screenshot"
+    },
+    {
+      "id": "screenshot-6",
+      "description": "App screenshot 6",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105535406702713/image.png?ex=6920959e&is=691f441e&hm=5f5073d73600d18764310f6c6c7405e548165cddafeeaeed1fdaa2066697848e&=&format=webp&quality=lossless&width=432&height=936",
+      "imageHint": "app screenshot"
+    },
+    {
+      "id": "screenshot-7",
+      "description": "App screenshot 7",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105483216846979/image.png?ex=69209591&is=691f4411&hm=24e52c7e77f0e41a16d52e4aa97d7bb1ba318a2d6e7824e1208f6eae039ebfcd&=&format=webp&quality=lossless&width=431&height=935",
+      "imageHint": "app screenshot"
+    },
+    {
+      "id": "screenshot-8",
+      "description": "App screenshot 8",
+      "imageUrl": "https://media.discordapp.net/attachments/1286768073453342767/1441105454318096514/image.png?ex=6920958a&is=691f440a&hm=90396086d4b607028037db878d6240cdffd3ac176932da9f2435a3289eb2fb04&=&format=webp&quality=lossless&width=489&height=935",
+      "imageHint": "app screenshot"
     }
   ]
 }

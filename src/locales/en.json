@@ -40,6 +40,16 @@
     "title": "An Intuitive Experience",
     "description": "Explore the clean and user-friendly interface of Vitalia. Designed for clarity and ease of use for everyone."
   },
+  "aiSummarizer": {
+    "title": "AI-Powered Summarization",
+    "description": "Quickly get up to speed on a resident's needs with AI-powered summaries of their data.",
+    "formLabel": "Resident Data",
+    "submitButton": "Generate Summary",
+    "summaryTitle": "Generated Summary",
+    "errorTitle": "Error Generating Summary",
+    "successTitle": "Success",
+    "summarySuccess": "Summary has been generated successfully."
+  },
   "download": {
     "title": "Download Vitalia",
     "description": "Get the app on your favorite platform and stay connected on the go.",
