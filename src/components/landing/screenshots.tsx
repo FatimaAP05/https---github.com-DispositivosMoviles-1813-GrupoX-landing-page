@@ -40,14 +40,15 @@ export function Screenshots() {
 
         <div className="mt-16">
           <Carousel
-            className="w-full max-w-sm mx-auto"
+            className="w-full max-w-5xl mx-auto"
             opts={{
               loop: true,
+              align: "start",
             }}
           >
-            <CarouselContent>
+            <CarouselContent className="-ml-2 md:-ml-4">
               {screenshots.map((screenshot) => (
-                <CarouselItem key={screenshot.id}>
+                <CarouselItem key={screenshot.id} className="pl-2 md:pl-4 basis-full md:basis-1/2 lg:basis-1/3">
                   <div className="p-1">
                     <Card className="overflow-hidden">
                       <CardContent className="p-0 flex items-center justify-center aspect-[9/19.5]">
