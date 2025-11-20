@@ -32,6 +32,10 @@
     "title": "Sobre el Producto",
     "description": "Vea nuestro breve video para obtener más información sobre cómo Vitalia está revolucionando la comunicación en los centros de atención."
   },
+  "aboutTeam": {
+    "title": "Sobre el Equipo",
+    "description": "Conoce al equipo detrás de Vitalia."
+  },
   "screenshots": {
     "title": "Una Experiencia Intuitiva",
     "description": "Explore la interfaz limpia y fácil de usar de Vitalia. Diseñada para la claridad y la facilidad de uso para todos."

@@ -32,6 +32,10 @@
     "title": "About The Product",
     "description": "Watch our short video to learn more about how Vitalia is revolutionizing communication in care centers."
   },
+  "aboutTeam": {
+    "title": "About The Team",
+    "description": "Meet the team behind Vitalia."
+  },
   "screenshots": {
     "title": "An Intuitive Experience",
     "description": "Explore the clean and user-friendly interface of Vitalia. Designed for clarity and ease of use for everyone."
