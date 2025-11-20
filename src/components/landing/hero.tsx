@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { useI18n } from '@/context/i18n-context';
@@ -28,10 +29,14 @@ export function Hero() {
               {t('hero.description')}
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 md:justify-start">
-              <Button size="lg">{t('hero.requestDemo')}</Button>
-              <Button size="lg" variant="ghost">
-                {t('hero.learnMore')} <span aria-hidden="true" className="ml-2">→</span>
-              </Button>
+              <Link href="/download" passHref>
+                <Button size="lg">{t('hero.requestDemo')}</Button>
+              </Link>
+              <Link href="#faq" passHref>
+                <Button size="lg" variant="ghost">
+                  {t('hero.learnMore')} <span aria-hidden="true" className="ml-2">→</span>
+                </Button>
+              </Link>
             </div>
           </div>
           <div className="relative h-64 md:h-auto md:aspect-square">
