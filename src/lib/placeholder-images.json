@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A smiling senior woman using a tablet to video call her family.",
+      "imageUrl": "https://images.unsplash.com/photo-1758874960515-fda8f2f360e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFwcHklMjBzZW5pb3IlMjBmYW1pbHl8ZW58MHx8fHwxNzYzNjU0NjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy senior family"
+    },
+    {
+      "id": "screenshot-dashboard",
+      "description": "App dashboard view showing resident monitoring stats.",
+      "imageUrl": "https://images.unsplash.com/photo-1759489239510-d0401888d9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzYzNjQ1MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app dashboard"
+    },
+    {
+      "id": "screenshot-chat",
+      "description": "App's real-time messaging interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1633354931133-27ac1ee5d853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBjaGF0fGVufDB8fHx8MTc2MzY1NDYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app chat"
+    },
+    {
+      "id": "screenshot-calendar",
+      "description": "App's appointment scheduling calendar view.",
+      "imageUrl": "https://images.unsplash.com/photo-1762769180401-083b8725434b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcHAlMjBjYWxlbmRhcnxlbnwwfHx8fDE3NjM2NTQ2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app calendar"
+    }
+  ]
 }
