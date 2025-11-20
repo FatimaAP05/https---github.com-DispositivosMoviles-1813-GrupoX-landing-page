@@ -15,18 +15,7 @@ export function AboutTeam() {
             {t('aboutTeam.description')}
           </p>
         </div>
-        <div className="mt-16 mx-auto max-w-4xl">
-          <div className="aspect-video overflow-hidden rounded-xl shadow-2xl">
-            <iframe
-              className="w-full h-full"
-              src=""
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-        </div>
+        {/* The empty iframe that was causing the error has been removed. */}
       </div>
     </section>
   );
